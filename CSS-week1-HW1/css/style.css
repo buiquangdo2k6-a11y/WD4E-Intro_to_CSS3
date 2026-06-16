@@ -1,4 +1,36 @@
 body{
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 150%;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: #d9d9d9;
+}
+
+nav{
+    background-color: #b3b3b3;
+}
+
+main{
+    background-color: #ffffcc;
+    font-size: 18px;
+}
+
+footer{
+    background-color: #d9d9d9;
+}
+
+li{
+    display: inline-block;
+    width: 150px;
+}
+
+h1{
+    text-align: center;
+    font-family: Georgia, "Times New Roman", serif;
+    color: #003366;
+}
+
+p{
+    line-height: 1.8;
 }
